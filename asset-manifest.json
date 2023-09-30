@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nefilim47/goit-react-hw-02-feedbackk/static/css/main.7acaea2f.css",
+    "main.js": "/Nefilim47/goit-react-hw-02-feedbackk/static/js/main.07d3183d.js",
+    "index.html": "/Nefilim47/goit-react-hw-02-feedbackk/index.html",
+    "main.7acaea2f.css.map": "/Nefilim47/goit-react-hw-02-feedbackk/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Nefilim47/goit-react-hw-02-feedbackk/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
